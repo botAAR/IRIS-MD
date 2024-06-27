@@ -46,16 +46,16 @@ if (fs.existsSync('config.env')) {
 
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '',
+    SESSION_ID: process.env.SESSION_ID || 'IRIS_MD~ghVMnCICFA5UYpwxYJJUe',
     HANDLERS: process.env.HANDLERS || '.',
-    IG: process.env.IG || 'https://instagram.com/sla.sher_/',
-    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg',
-    URL: process.env.URL || 'https://whatsapp.com/channel/0029VaHt1710AgWB1B0Lkg0Q',
-    SUDO: process.env.SUDO || '8801975492880',
+    IG: process.env.IG || 'https://www.instagram.com/art_ffiche_officiel_225/#',
+    INFO: process.env.INFO || 'ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://i.pinimg.com/564x/a5/b9/e0/a5b9e05278982f0d54ac4429181e3d3f.jpg',
+    URL: process.env.URL || 'https://chat.whatsapp.com/HDkTC41FkbYEge0sYFfSim',
+    SUDO: process.env.SUDO || '22565651420',
     AUTO_STATUS_VIEW: process.env.AUTO_STATUS_VIEW || 'true',
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || 'true',
-    MODE: process.env.MODE || 'public',
-    STICKER_DATA: process.env.STICKER_DATA || '️ᴍᴀᴅᴇ ʙʏ; ɪʀɪꜱ-ᴍᴅ',
+    MODE: process.env.MODE || 'private',
+    STICKER_DATA: process.env.STICKER_DATA || '️produit; [͇̿S̷͇͇̿̿d͇̿~͇̿A͇̿a͇̿r͇̿o̸͇͇̿̿n͇̿]',
     HAPP: process.env.HAPP || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
     HKEY: process.env.HKEY || '', // ɪꜰ ɴᴏᴛ ʜᴇʀᴏᴋᴜ, ᴛʜᴇɴ ᴋᴇᴇᴘ ɪᴛ ʙʟᴀɴᴋᴇᴅ
     DATABASE_URL: DATABASE_URL
